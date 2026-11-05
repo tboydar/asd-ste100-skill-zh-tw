@@ -2,6 +2,8 @@
 
 # ASD-STE100 Skill — Simplified Technical English for Agent Output
 
+> **正體中文（台灣）說明：** 本 repo 為雙語版本，英文原檔與 `*.zh-TW.md` 中文譯本並存。英文為權威版本，中文譯本包含 [`README.zh-TW.md`](README.zh-TW.md)、[`SKILL.zh-TW.md`](SKILL.zh-TW.md)、[`references/writing-rules.zh-TW.md`](references/writing-rules.zh-TW.md) 與 [`examples/before-after.zh-TW.md`](examples/before-after.zh-TW.md)。`SKILL.md` 仍是 Claude Code 唯一載入的 skill 檔，`SKILL.zh-TW.md` 僅供閱讀參考。`examples/linter-edge-cases.md` 是 linter 的測試 fixture，刻意保留英文。ASD-STE100 只定義英文，中文譯本為說明文件，不是官方標準。
+
 A Claude Code skill that rewrites dense, ambiguous English into [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/) (STE) — the controlled-language standard the aerospace and defense industry built so aircraft maintenance instructions cannot be misread.
 
 This skill repurposes that same discipline for a different reader: an **AI agent** parsing another agent's output, a tool description, an error message, or an inter-agent instruction, with no human in the loop to resolve ambiguity.
