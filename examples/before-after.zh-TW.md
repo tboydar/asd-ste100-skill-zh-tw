@@ -42,7 +42,7 @@
 > An error may have occurred while processing your request due to a possible mismatch in the expected data format, which could be caused by an outdated client version.
 
 **標出的違規：**
-- 一句承載三項獨立主張（發生錯誤、格式不符、用戶端版本）。
+- 一句承載三項獨立主張（發生錯誤、格式不符、客戶端版本）。
 - 28 詞，超過描述性上限。
 
 未標出："may have occurred" 與 "could be caused by"。這則訊息由一個不知道哪裡出錯的系統所寫。兩個模糊限定都是對這份無知的準確陳述。

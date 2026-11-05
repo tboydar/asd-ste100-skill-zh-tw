@@ -82,7 +82,7 @@ STE 允許不定詞、祈使式、簡單現在式、簡單過去式、簡單未�
 1. **同義詞輪替**——同一個東西在同一份文件裡有好幾個名字（"the user"、"the customer"、"the client"）。讀者無法判斷它們是一個東西還是三個。修正：選一個名字，每次都用它。
 2. **模糊限定堆疊**——助動詞與限定詞層層疊加，直到句子什麼都沒主張（"it is important to note that this may potentially help to improve"）。修正：把主張講出來，或刪掉。
 3. **名詞化**——把動作凍結成名詞（"perform an analysis of"、"provides assistance to"）。修正：用動詞（"analyze"、"helps"）。
-4. **行銷形容詞**——宣稱品質卻不展示品質的詞：seamless、robust、powerful、cutting-edge、effortless、blazing-fast。修正：刪掉，或換成足以支撐該宣稱的量測數據。
+4. **行銷形容詞**——宣稱品質卻不展示品質的詞：seamless、robust、powerful、cutting-edge、effortless、blazing-fast。修正：刪掉，或換成足以支撐該宣稱的量測結果。
 5. **流水句**——好幾個想法用分號或破折號串在一起。修正：一句一個想法。
 6. **軟性片語動詞**——spin up、reach out、dive into、kick off。修正：改用單一平實動詞（start、contact、read、begin）。
 
