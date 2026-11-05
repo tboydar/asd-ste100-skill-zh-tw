@@ -1,3 +1,5 @@
+[English](README.md) | [正體中文](README.zh-TW.md)
+
 # ASD-STE100 Skill — Simplified Technical English for Agent Output
 
 A Claude Code skill that rewrites dense, ambiguous English into [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/) (STE) — the controlled-language standard the aerospace and defense industry built so aircraft maintenance instructions cannot be misread.
@@ -93,6 +95,7 @@ One limit worth stating up front: this fixes the form of a text, not its substan
 
 ## Other Languages
 
+- **Traditional Chinese (Taiwan):** [tboydar/asd-ste100-skill-zh-tw](https://github.com/tboydar/asd-ste100-skill-zh-tw) is a Traditional Chinese translation of this skill, with `README.zh-TW.md`, `SKILL.zh-TW.md`, `references/writing-rules.zh-TW.md`, and `examples/before-after.zh-TW.md`. ASD-STE100 defines English only, so the Chinese files are documentation, not an official standard.
 - **Hebrew:** [g4lb/asd-ste100-hebrew-skill](https://github.com/g4lb/asd-ste100-hebrew-skill) is a Hebrew port of this skill. It includes a Hebrew linter. ASD-STE100 defines English only, so the Hebrew rules are an adaptation, not an official standard.
 - **Indonesian:** [jshsinaga/asd-ste100-indonesian-skill](https://github.com/jshsinaga/asd-ste100-indonesian-skill) adapts this skill for Indonesian technical text. Its Indonesian rules are an adaptation, not an official ASD-STE100 standard.
 
